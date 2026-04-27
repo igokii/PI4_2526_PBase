@@ -1,0 +1,3 @@
+module ejemplos {
+	requires grafos;
+}
